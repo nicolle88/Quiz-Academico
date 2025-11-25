@@ -1,4 +1,4 @@
-//Nicolle, Douglas da cunha, Filipe Silva do Nascimento
+//Nicolle Lima, Douglas da cunha, Filipe Silva do Nascimento
 import java.util.Scanner;
 import java.util.Arrays;
 import java.util.Collections;
