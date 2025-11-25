@@ -1,4 +1,4 @@
-//Nicolle Lima, Douglas da cunha, Filipe Silva do Nascimento, Gerson José
+//Nicolle Lima, Douglas da cunha, Filipe Silva do Nascimento, Gerson José, Leandro Pessoa 
 import java.util.Scanner;
 import java.util.Arrays;
 import java.util.Collections;
